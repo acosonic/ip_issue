@@ -3,5 +3,8 @@
 Redmine 5 plugin which adds IP to issue
 it only stays in database so if you need to know IP take a look at that particular issue in db table issues.
 
+install it by checking out to ip_issue in plugins folder
+
+then run migration and restart Redmine
 
 
