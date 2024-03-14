@@ -1,3 +1,7 @@
 = ip_issue
 
-Description goes here
+Redmine 5 plugin which adds IP to issue
+it only stays in database so if you need to know IP take a look at that particular issue in db table issues.
+
+
+
